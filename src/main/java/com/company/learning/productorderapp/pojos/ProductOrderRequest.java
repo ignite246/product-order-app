@@ -15,5 +15,6 @@ public class ProductOrderRequest {
     private String payeeLastName;
     private Integer payeeCardNumber;
     private Integer payeeCardCVVNumber;
+    private String payeeCardExpiryDate;
 
 }
